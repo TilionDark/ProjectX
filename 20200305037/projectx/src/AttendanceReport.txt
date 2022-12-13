@@ -1,0 +1,139 @@
+
+
+
+
+__________________________________________________________
+Attendance Report
+----------------------------------------------------------------
+
+Unit 			:	ECSI410
+Unit Name 		:	SDP01
+Room Number 	:	216
+Room Name 		:	breakRoom
+Lecturer 		:	Dr.Foster
+Week# 		:	01
+Date 			:	30/12/2022
+
+----------------------------------------------------------------
+
+Student No. 	Last Name 		FirstName 		Present 
+
+2014001		Gamage		Aishu		Y
+
+2014002		Moulana		Ibrahim		Y
+
+2014003		Nadeesh		Avishka		Y
+
+2014004		Denuwan		Rashmi		Y
+
+
+----------------------------------------------------------------
+Lecturer Confirmed Attendance 	 : YES/NO
+Students Enrolled 			 : 4
+Attendance 				 : 4
+Room Capacity 				 : 6
+Percentage Occupancy 			 : 67.0%
+________________________________________________________________
+
+
+
+________________________________________________________________
+Attendance Report
+----------------------------------------------------------------
+
+Unit 			:	ECSI412
+Unit Name 		:	SDP02
+Room Number 	:	217
+Room Name 		:	DownTownRoom
+Lecturer 		:	Dr.Khan
+Week# 		:	01
+Date 			:	30/12/2022
+
+----------------------------------------------------------------
+
+Student No. 	Last Name 		FirstName 		Present 
+
+2014112		Gamage		Hastika		Y
+
+2014113		Packeer		Umaria		Y
+
+2014114		Denuwan		Supuni		Y
+
+2014115		Navodya		Dulanja		Y
+
+2014116		Freddie		Johnny		N
+
+
+----------------------------------------------------------------
+Lecturer Confirmed Attendance 	 : YES/NO
+Students Enrolled 			 : 5
+Attendance 				 : 4
+Room Capacity 				 : 6
+Percentage Occupancy 			 : 67.0%
+________________________________________________________________
+
+
+
+________________________________________________________________
+Attendance Report
+----------------------------------------------------------------
+
+Unit 			:	ECSI416
+Unit Name 		:	OOP1
+Room Number 	:	218
+Room Name 		:	HolyRoom
+Lecturer 		:	Dr.Brendon
+Week# 		:	01
+Date 			:	30/12/2022
+
+----------------------------------------------------------------
+
+Student No. 	Last Name 		FirstName 		Present 
+
+2014134		Mishra		Hansika		Y
+
+2014135		Travie		Sajith		Y
+
+
+----------------------------------------------------------------
+Lecturer Confirmed Attendance 	 : YES/NO
+Students Enrolled 			 : 2
+Attendance 				 : 2
+Room Capacity 				 : 6
+Percentage Occupancy 			 : 33.0%
+________________________________________________________________
+
+
+
+________________________________________________________________
+Attendance Report
+----------------------------------------------------------------
+
+Unit 			:	ECSI422
+Unit Name 		:	OOP2
+Room Number 	:	220
+Room Name 		:	CountryRoom
+Lecturer 		:	Dr.Holmes
+Week# 		:	01
+Date 			:	30/12/2022
+
+----------------------------------------------------------------
+
+Student No. 	Last Name 		FirstName 		Present 
+
+2014145		Maddage		Binura		Y
+
+2014146		Naazir		Ibrahim		Y
+
+2014147		Shivani		Niveda		N
+
+
+----------------------------------------------------------------
+Lecturer Confirmed Attendance 	 : YES/NO
+Students Enrolled 			 : 3
+Attendance 				 : 2
+Room Capacity 				 : 6
+Percentage Occupancy 			 : 33.0%
+________________________________________________________________
+
+

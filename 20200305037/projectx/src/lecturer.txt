@@ -1,0 +1,5 @@
+UnitID		UnitName	RoomNumber	RoomName			LecturerName	RoomCapacity	NumberOfStudentsEnrolled
+ECSI410		SDP01		216			breakRoom			Dr.Foster			6					4
+ECSI412		SDP02		217			DownTownRoom			Dr.Khan			6					5
+ECSI416		OOP1		218			HolyRoom			Dr.Brendon			6					2
+ECSI422		OOP2		220			CountryRoom			Dr.Holmes			6					3
